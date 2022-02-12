@@ -1,0 +1,27 @@
+form #user_error{
+  margin-top: 5px;
+  width: 345px;
+  font-size:18px;
+  color: #C62828;
+  background-color: rgba(255, 0, 0, 0.1);
+  text-align: center;
+  display: none;
+}
+form #pass_error{
+  margin-top: 5px;
+  width: 345px;
+  font-size:18px;
+  color: #C62828;
+  background-color: rgba(255, 0, 0, 0.1);
+  text-align: center;
+  display: none;
+}
+form #pass1_error{
+  margin-top: 5px;
+  width: 345px;
+  font-size:18px;
+  color: #C62828;
+  background-color: rgba(255, 0, 0, 0.1);
+  text-align: center;
+  display: none;
+}
